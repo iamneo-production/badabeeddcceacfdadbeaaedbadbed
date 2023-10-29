@@ -17,7 +17,4 @@ current_url = driver.current_url
 print("Current URL:", current_url)
 
 # Close the WebDriver
-driver.quit()
-
-
-
+driver.quit();
