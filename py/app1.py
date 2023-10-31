@@ -18,3 +18,5 @@ print("Current URL:", current_url)
 
 # Close the WebDriver
 driver.quit();
+asdfsd
+asdfsd
